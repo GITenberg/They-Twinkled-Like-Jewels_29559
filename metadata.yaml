@@ -1,0 +1,30 @@
+_repo: They-Twinkled-Like-Jewels_29559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farmer, Philip José
+    alias: Farmer, Philip Jose
+    birthdate: 1918
+    deathdate: 2009
+    gutenberg_agent_id: '33989'
+    url: http://www.gutenberg.org/2009/agents/33989
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: They Twinkled Like Jewels
+url: http://www.gutenberg.org/ebooks/29559
